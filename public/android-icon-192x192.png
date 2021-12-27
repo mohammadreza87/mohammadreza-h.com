@@ -1,0 +1,432 @@
+<!DOCTYPE HTML>
+<html lang="en-us" hreflang="en-us">
+
+<head>
+	<meta name="p:domain_verify" content="c5f1197ca88be7c1ca0ccad85014bda6"/>
+	<title>Mohammad Reza Hassanzadeh - Resume</title>
+	<meta charset="UTF-8">
+	<meta name="robots" content="index,follow">
+	<script type="application/ld+json">
+		{
+		  "@context": "http://schema.org",
+		  "@type": "Person",
+		  "email": "reza@ordibeheshtstudio.com",
+		  "image": "images/Mohammadreza_Hassanzadeh.jpg",
+		  "jobTitle": "Team Leader & Product Manager",
+		  "homeLocation": "Tehran",
+		  "name": "Mohammad Reza Hassanzadeh",
+		  "telephone": "+98-930-506-6356",
+		  "url": "http://mohammadreza-h.ir"
+		}
+	</script>
+	<meta name="keywords" content="mohammadreza, hassanzadeh, mohammadreza hassanzadeh, &#1605;&#1581;&#1605;&#1583;&#1585;&#1590;&#1575;,&#1605;&#1581;&#1605;&#1583;&#1585;&#1590;&#1575; &#1581;&#1587;&#1606; &#1586;&#1575;&#1583;&#1607; ,&#1605;&#1581;&#1605;&#1583;&#1585;&#1590;&#1575; &#1581;&#1587;&#1606;&#1586;&#1575;&#1583;&#1607; ,&#1581;&#1587;&#1606;&#1586;&#1575;&#1583;&#1607;, hasanzadeh, mohamadreza, mohamadreza hasanzadeh, mohammad reza hassanzadeh, mohamad reza hasanzadeh, mohamad reza">
+	<meta name="description" content="I'm Mohammadreza Hassanzadeh game designer and co-founder of Ordibehesht Studio. I also work at MRL-SPL that is a SPL Robocup team.">
+	<meta name="msapplication-TileColor" content="#ffffff">
+	<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+	<meta name="theme-color" content="#ffffff">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="apple-touch-icon" sizes="57x57" href="images/icons/apple-icon-57x57.png">
+	<link rel="apple-touch-icon" sizes="60x60" href="images/icons/apple-icon-60x60.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="images/icons/apple-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="images/icons/apple-icon-76x76.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="images/icons/apple-icon-114x114.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="images/icons/apple-icon-120x120.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="images/icons/apple-icon-144x144.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="images/icons/apple-icon-152x152.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="images/icons/apple-icon-180x180.png">
+	<link rel="icon" type="image/png" sizes="192x192" href="/android-icon-192x192.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="images/icons/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="96x96" href="images/icons/favicon-96x96.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="images/icons/favicon-16x16.png">
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<link rel="stylesheet" href="fonts/font-awesome/css/font-awesome.min.css">
+	<link rel="manifest" href="/manifest.json">
+	<link href="css/bootstrap.min.css" rel="stylesheet">
+	<link href="css/main.css" rel="stylesheet">
+	<link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css">
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-107678186-1"></script>
+	<script>
+  	window.dataLayer = window.dataLayer || [];
+  	function gtag(){dataLayer.push(arguments);}
+  	gtag('js', new Date());
+
+  	gtag('config', 'UA-107678186-1');
+	</script>
+
+</head>
+
+<body data-spy="scroll" data-target="#navbar-example" itemscope itemtype="http://schema.org/Person">
+
+	<!-- Above the fold - Start -->
+	<div id="top" class="jumbotron" data-position="center right">
+		<div class="container">
+			<h1>Mohammad Reza<article style="display:none">Hassanzadeh</article> </h1>
+			<p class="lead">Something About Me</p>
+		</div>
+		<div class="overlay"></div>
+		<a href="#profile" class="scroll-down">
+				<span class="glyphicon glyphicon-chevron-down"></span>
+			</a>
+	</div>
+	<!-- Above the fold - End -->
+
+	<!-- Navigation Start -->
+	<nav class="navbar navbar-default" id="navbar-example" role="navigation">
+		<div class="navbar-header">
+			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
+		</div>
+		<div class="collapse navbar-collapse navbar-ex1-collapse">
+			<ul class="nav navbar-nav">
+				<li class="active"><a href="#profile">Profile</a></li>
+				<li><a href="#experiences">Experiences</a></li>
+				<li><a href="#abilities">Abilities</a></li>
+				<li><a href="#projects">Projects</a></li>
+				<li><a href="#contact">Contact</a></li>
+				<li><a href="files/CV-Mohammadreza.pdf" target="_blank">Resume <i class="icon-download"></i></a></li>
+				<li><a href="#top" class="scroll-up">
+					<span class="glyphicon glyphicon-chevron-up"></span>
+					</a>
+				</li>
+			</ul>
+		</div>
+
+	</nav>
+	<!-- Navigation End -->
+
+	<!-- Profile Start -->
+	<div class="background-white">
+		<div id="profile" class="container">
+			<h2>Profile</h2>
+			<p class="lead">I&#039;m trying to be a creative game designer.</p>
+			<div class="row">
+				<hr>
+				<div class="col-12">
+					<h3>About me</h3>
+					<p itemprop="description">Hi, I'm <span itemprop="givenName">Mohammad Reza </span>a team leader,
+						product manager, and researcher in the game industry with interests in the fields of Data-Driven
+						 Game Design, Leadership, Team Development, Team Management with good experience in leadership, and teamwork.
+						I like working in a team; you will learn faster and more. I have excellent technical skills,
+						communication skills, and goal-focused professional offering five years of experience in the leadership in <a href="http://www.ordibeheshtstudio.com">Ordibehesht Studio</a>.
+						<br>Born and raised in <span itemprop="birthPlace"> Tehran </span> and living
+						in Qazvin. I graduated in Computer Engineering from <a href="http://www.qiau.ac.ir">
+							<span itemprop="alumniOf"> Qazvin Azad University</span></a>. Motivated and enthusiastic by
+							new challenges and tasks and take an excellent approach to achieve success in all projects.
+					</p>
+				</div>
+				<div class="col-md-6 text-center" style="padding-top: 20px">
+					<img itemprop="image" style="border-radius:123px; border:solid 10px #da4453" src="images/Mohammadreza-Hassanadeh.jpg" alt="picture of Mohammadreza Hassanzadeh (&#1605;&#1581;&#1605;&#1583;&#1585;&#1590;&#1575; &#1581;&#1587;&#1606; &#1586;&#1575;&#1583;&#1607;)"
+					 width="256" height="256">
+				</div>
+				<div class="col-md-6 text-left">
+					<h3>Details</h3>
+					<p>
+						<table style="width:100%">
+							<tr>
+								<th><strong>Name:</strong></th>
+								<th><strong>Born:</strong><br/></th>
+							</tr>
+							<tr>
+								<th>
+									<a href="http://www.mohammadreza-h.ir" itemprop="url">
+										<span itemprop="name">Mohammad Reza</span>
+										<span itemprop="familyName">Hassanzadeh</span>
+									</a>
+								</th>
+								<th>
+									<time itemprop="birthDate" datetime="1987-04-28"> April 28, 1987</time><br/>
+								</th>
+							</tr>
+							<tr>
+								<th><br></th>
+							</tr>
+							<tr>
+								<th><strong>Location:</strong></th>
+								<th><strong>Phone:</strong><br/></th>
+							</tr>
+							<tr>
+									<th>
+										<span itemprop="homeLocation">Tehran </span>-<span itemprop="workLocation"> Qazvin</span><br/>
+									</th>
+									<th>
+										<span itemprop="telephone"> +989305066356</span><br/>
+									</th>
+							</tr>
+							<tr>
+									<th><br></th>
+							</tr>
+						</table>
+						<a href="https://twitter.com/mohammadreza_87" target="_blank" class="twitter-follow-button" data-show-count="false" data-size="large" data-show-screen-name="false">Follow @mohammadreza</a>
+						<script>
+							!function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0], p = /^http:/.test(d.location) ? 'http' : 'https'; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = p + '://platform.twitter.com/widgets.js'; fjs.parentNode.insertBefore(js, fjs); } }(document, 'script', 'twitter-wjs');
+						</script>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- Profile End -->
+
+	<!-- Experiences Start -->
+	<div id="experiences" class="container">
+		<h2>Experiences</h2>
+		<p class="lead">&ldquo;Try not to become a man of success,
+			but rather try to become a man of value.&rdquo;<br/>- Albert Einstein
+		</p><hr>
+		<h3>Educations</h3>
+		<ul>
+			<li>
+				<h4><a href="https://qiau.ac.ir" target="_blank">Qazvin Azad University</a></h4>
+				<strong>Bachelor's degree - Computer Engineering</strong>
+				<p>Sep 2011 - Feb 2015</p>
+			</li>
+		</ul><hr>
+		<h3>Careers</h3>
+		<ul>
+			<li>
+				<h4 itemprop="worksFor"><a href="http://www.ordibeheshtstudio.com" itemprop="url">Ordibehesht Studio</a></h4>
+				<strong><span itemprop="jobTitle">Team Leader & Product Manager</span></strong>
+				<p>
+					<time datetime="2015-10-01"> Oct 2015</time> - Present<br>
+					<strong>Ordibehesht Studio</strong> is an indie game developer that is founded by me.
+					I started as a developer, and then I shifted toward Leadership, Game Design, and Product Manager.
+					I was responsible for Zoobi development, and design, Sonjoo Escape design, Kalamatic (Word Game)
+					project management, and I am currently working on 4Wheelers and Words Tour as a leading game designer
+					and project management.
+				</p>
+			</li>
+			<li>
+				<h4 itemprop="worksFor"><a href="http://www.mrl-spl.ir" itemprop="url">MRL-SPL (Mechatronics Research Laboratory - Standard Platform League)</h4></a>
+				<strong>NAO - SPL League - <span itemprop="jobTitle">Behavior Control</span></strong>
+				<p><time datetime="2014-04-01"> Apr 2014</time></p>
+				<strong>NAO - SPL League - <span itemprop="jobTitle">Team Development & Leadership</span></strong>
+				<p><time datetime="2014-04-01"> Apr 2016</time> - Present<br>
+					Mechatronics Research Laboratories - Standard Platform League (MRL-SPL) is a humanoid robotic
+					team that is a part of MRL. I started to work as a developer and researcher.
+					My interest gradually led me to begin research on Team Development.
+				</p>
+
+			</li>
+			<li>
+				<h4>Savadbar Transportation Of Goods Company</h4>
+				<strong>Computer Specialist</strong>
+				<p>
+					<time datetime="2003-07-01"> Jul 2003 </time> - Apr 2009<br>
+					From high school on, I started working in Savad Bar company as a computer specialist.
+					I liked the job since I was interested in the field of computer.
+					Later, I left the job to continue my education.
+				</p>
+			</li>
+		</ul>
+	</div>
+	<!-- Experiences End -->
+
+	<!-- Abilities Start -->
+	<div class="background-white">
+		<div id="abilities" class="container">
+			<h2>Abilities</h2>
+			<p class="lead"> &ldquo;Be a yardstick of quality. Some people aren't used to an environment where excellence is expected.&rdquo;<br/>-
+				Steve Jobs</p>
+			<div class="row">
+				<hr>
+				<div class="col-md-4">
+					<h3>Skills</h3>
+					<ul class="no-bullets">
+						<li>Leadership</li>
+						<li>Team Development</li>
+						<li>Project Management</li>
+						<li>Data Analytics</li>
+						<li>Marketing</li>
+						<li>A/B Test</li>
+						<li>C#</li>
+						<li>Html</li>
+						<li>CSS3</li>
+						<br/>
+					</ul>
+				</div>
+
+				<div class="col-md-4">
+					<h3>Languages</h3>
+					<ul class="no-bullets">
+						<li>Persian (Mother tongue)</li>
+						<li>English</li>
+					</ul>
+				</div>
+
+				<div class="col-md-4">
+					<h3>Tools</h3>
+					<ul class="no-bullets">
+						<li>OS X</li>
+						<li>Linux</li>
+						<li>Game Analytics</li>
+						<li>Firebase</li>
+						<li>Appmetrica</li>
+						<li>iWork</li>
+						<li>G Suite</li>
+						<li>Unity</li>
+						<li>Git</li>
+						<br/>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- Abilities End -->
+
+	<!-- Projects Start -->
+	<div id="projects" class="container" itemscope itemtype="http://schema.org/VideoGame">
+		<h2>Projects</h2>
+		<p class="lead">&ldquo;If you can dream it, you can do it.&rdquo;<br/>- Walt Disney
+		</p>
+		<div class="row">
+			<hr>
+			<div class="col-md-6 col-sm-6 col-xs-12 center">
+					<figure class="effect">
+						<img itemprop="image" src="images/4Wheelers.jpg" alt="4Wheelers Game - An online turn-based game" />
+
+						<figcaption itemprop="description">
+							<h3 itemprop="name">4Wheelers</h3>
+							<p>4Wheelers, a touch of lowpoly design and an <span itemprop="genre">online multiplayer turn-based</span><span itemprop="applicationCategory"> game</span>.</span><br/>
+								<span itemprop="operatingSystem">Platforms: iOS, Android</span><br/>
+								<strong>Roles: </strong> <br/>Design, Project Management
+							</p>
+							<a href="https://play4wheelers.com" itemprop="sameAs" target="_blank">View more</a>
+							<span class="icon">
+								<span class="glyphicon glyphicon-new-window"></span>
+							</span>
+						</figcaption>
+					</figure>
+				</div>
+				<div class="col-md-6 col-sm-6 col-xs-12">
+						<figure class="effect">
+							<img itemprop="image" src="images/wordstour.jpg" alt="4Wheelers Game - An online turn-based game" />
+
+							<figcaption itemprop="description">
+								<h3 itemprop="name">Words Tour</h3>
+								<p>A brand new multilingual <span itemprop="genre">word</span><span itemprop="applicationCategory"> game</span>.</span><br/>
+									<span itemprop="operatingSystem">Platforms: iOS, Android</span><br/>
+									<strong>Roles: </strong> <br/>Marketing Management, Publishing
+								</p>
+								<a href="https://redirect.appmetrica.yandex.com/serve/602890891950088617" itemprop="sameAs" target="_blank">View more</a>
+								<span class="icon">
+									<span class="glyphicon glyphicon-new-window"></span>
+								</span>
+							</figcaption>
+						</figure>
+					</div>
+					<div class="col-md-6 col-sm-6 col-xs-12">
+							<figure class="effect">
+								<img itemprop="image" src="images/kalamatic.jpg" alt="4Wheelers Game - An online turn-based game" />
+
+								<figcaption itemprop="description">
+									<h3 itemprop="name">Kalamatic</h3>
+									<p>An incredibly addicting <span itemprop="genre">word</span><span itemprop="applicationCategory"> game</span>.</span><br/>
+										<span itemprop="operatingSystem">Platforms: iOS, Android</span><br/>
+										<strong>Roles: </strong> <br/>Marketing Management, Publishing, Project Management
+
+									</p>
+									<a href="https://redirect.appmetrica.yandex.com/serve/1107294056456683460" itemprop="sameAs" target="_blank">View more</a>
+									<span class="icon">
+										<span class="glyphicon glyphicon-new-window"></span>
+									</span>
+								</figcaption>
+							</figure>
+						</div>
+			<div class="col-md-6 col-sm-6 col-xs-12">
+				<figure class="effect">
+					<img itemprop="image" src="images/SonjooPoster.png" alt="Sonjoo Escape Cover" />
+
+					<figcaption>
+						<h3 itemprop="name">Sanjoo Escape</h3>
+						<p>Sanjoo Escape, is a colorful and funny <span itemprop="genre">Runner</span><span itemprop="applicationCategory"> game</span>.<br/>
+							<span itemprop="operatingSystem">Platforms: Android</span><br/>
+							<strong>Roles:</strong>
+							<br/>Project Management</p>
+						</p>
+
+						<a href="http://sonjoo.ir" itemprop="url" target="_blank">View more</a>
+						<span class="icon">
+							<span class="glyphicon glyphicon-new-window"></span>
+						</span>
+					</figcaption>
+				</figure>
+			</div>
+			<div class="col-md-6 col-sm-6 col-xs-12 text-center">
+					<figure class="effect">
+						<img itemprop="image" src="images/Zoobi.jpg" alt="Zoobi"/>
+
+						<figcaption itemprop="description">
+							<h3 itemprop="name">Zoobi</h3>
+							<p>ZOOBI, a beautifully designed and addictive <span itemprop="genre">Arcade</span><span itemprop="applicationCategory"> game</span>.</span><br/>
+								<span itemprop="operatingSystem">Platforms: Android</span><br/>
+								<strong>Roles: </strong> <br/>Design, Development, Project Management</p>
+							<a href="https://cafebazaar.ir/app/com.Ordibeheshtstudio.Zoobi/?l=en" itemprop="sameAs" target="_blank">View more</a>
+							<span class="icon">
+								<span class="glyphicon glyphicon-new-window"></span>
+							</span>
+						</figcaption>
+					</figure>
+				</div>
+		</div>
+	</div>
+	<!-- Projects End -->
+
+	<!-- Contact Start -->
+	<div class="background-gray">
+		<div id="contact" class="container">
+			<h2>Contact</h2>
+			<p class="lead" style="color:#E0CACC">
+				&ldquo;We are all now connected by the Internet, like neurons in a giant brain.&rdquo;<br/>- Stephen Hawking
+			</p>
+			<hr>
+			<div class="row">
+				<div class="col-md-12">
+					<ul class="no-bullets">
+						<li style="text-align:center">
+							<a href=" mailto:h.mohammadreza.87@gmail.com" style="display:inline-block">
+									<i class="icon-envelope icon-large"></i>
+									<span itemprop="email"> reza@ordibeheshtstudio.com</span>
+								</a>
+						</li>
+					</ul>
+				</div>
+
+				<div class="col-md-3 col-sm-3 col-xs-3">
+					<a class="btn btn-block btn-social btn-twitter" href="http://twitter.com/mohammadreza_87"
+					itemprop="sameAs" target="_blank">
+					<i class="icon-twitter-sign icon-4x"></i>
+					</a>
+				</div>
+
+				<div class="col-md-3 col-sm-3 col-xs-3">
+					<a class="btn btn-block btn-social btn-linkedin" href="https://ir.linkedin.com/pub/mohammadreza-hassanzadeh/b1/837/407"
+					itemprop="sameAs" target="_blank">
+					<i class="icon-linkedin-sign icon-4x"></i>
+					</a>
+				</div>
+
+				<div class="col-md-3 col-sm-3 col-xs-3">
+					<a class="btn btn-block btn-social btn-facebook" href="https://www.facebook.com/h.mohammad.reza"
+					itemprop="sameAs" target="_blank"><i class="icon-facebook-sign icon-4x"></i>
+					</a>
+				</div>
+
+				<div class="col-md-3 col-sm-3 col-xs-3">
+					<a class="btn btn-block btn-social btn-instagram" href="https://www.instagram.com/mohammadreza_87"
+					itemprop="sameAs" target="_blank"><i class="icon-instagram icon-4x"></i>
+					</a>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- Contact End -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+	<script src="js/bootstrap.min.js"></script>
+	<script src="js/script.js"></script>
+</body>
+
+</html>
